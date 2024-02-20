@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RUNAClound!|PlayList</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css">
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Dancing+Script&family=Tenali+Ramakrishna&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/estilos.css">
+
+
+</head>
+<body>
+    
+                <!-- mi menu para desplazarme-->
+    <div class="app">
+        <aside class="menu-aside">
+            <div class="logo">
+                <span class="i-logo i-logo2"><i class="fab fa-pied-piper-alt s-logo"></i> BOA Clound!</span>
+            </div>
+            <ul class="playlists" id="menuMusic"> 
+                <li class="playlist"><a href="#" class="play playCultural" id="cargarCultural">Amazonia-cultural</a></li>
+                <li class="playlist" ><a href="#" class="play playFreestyle">Sierra-Fress</a></li>
+                <li class="playlist"><a href="#" class="play playGlobal">Freestyle-Global</a></li>
+            </ul>
+        </aside>
+        
+                <!-- Mi login o registro-->
+        <div class="album" id="album">
+            <div class="user">
+                <a href="#" class="close" id="close"><i class="far fa-times-circle"></i></a>
+                <span class="user-desc">  <i class="fas fa-user "></i>LOGIN</a></span>      
+            </div>
+
+            <div class="animate">      
+            </div>
+            <div class="album-description">
+                    <div class="album-img">
+                        <img id="imgAlbum" src="assets/img/shuarmusic.jpg" width="250" height="150" alt="Cultural">
+                    </div>
+                    <div class="album-text">
+                        <div class="title">
+                            <span>Playlist:</span>
+                            <h2 id="titlePlaylist">Seleccionar una playlist</h2>
+                        </div>
+                        <div class="description">
+                            <p id="playDescription">Reproduzca la playlist que desea!</p>
+                        </div>
+                        <div class="acciones">
+                            <input type="file" id="files" name="files[]" multiple />
+                            <a href="#" class="btn reaccion-inactiva" id="reaccion"><i class="fas fa-heart"></i></a>
+                            
+                        </div>
+                        </div>
+                </div>
+            
+                <!-- mi contenedor informacion de musica-->
+            <div class="album-list-music">
+                <ul class="list-music" id="lista-music">
+            
+                </ul>
+            </div>
+        </div>
+        </div>
+
+                <!-- mi controlador de musica desde js-->
+        <div class="reproducir">
+            <div class="controles" id="controles"> 
+
+            </div>
+
+            </div>
+        </div>
+  
+
+    
+        <script type="text/javascript" src="assets/js/app.js"></script>
+    
+       <!--- <audio src="sangresh.mp3" autoplay controls> 
+       </audio>-->
+</body>
+</html>
