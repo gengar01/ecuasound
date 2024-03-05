@@ -36,21 +36,21 @@ function cargarInfo(e){
     let srcImg='';
 
     if (e.target.classList.contains('playCultural')){
-        jsonurl='assets/musicJSON/Cultural.json';
-        titlePlay='Playlist Cultural';
+        jsonurl='assets/musicJSON/Costa.json';
+        titlePlay='Playlist Costa';
         descripcionPlay='La mejor playlist de musica local para ti:';
         srcImg='https://www.larevistadevaldemoro.com/wp-content/uploads/2018/04/b447132b-ba10-4362-9d10-117353805698-640x435.png';
         album.style.background="linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(/assets/img/ojoss.jpg)";
         
     }else if(e.target.classList.contains('playFreestyle')){
-        jsonurl='assets/musicJSON/Freestyle.json';
-        titlePlay='Playlist FREESTYLE';
+        jsonurl='assets/musicJSON/Sierra.json';
+        titlePlay='Playlist Sierra';
         descripcionPlay='La mejor playlist de Freestyle pata ti:';
         srcImg='https://sites.google.com/site/freestylerapcali/_/rsrc/1475597201246/config/customLogo.gif?revision=2';
         album.style.background="linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(/assets/img/ojoss.jpg)";
     }else if(e.target.classList.contains('playGlobal')){
-        jsonurl='assets/musicJSON/Global.json';
-        titlePlay='Playlist de Musica TOP esta semana';
+        jsonurl='assets/musicJSON/Oriente.json';
+        titlePlay='Playlist de Musica TOP Oriente';
         descripcionPlay='La mejor playlist para disfrutar';
         srcImg='https://st2.depositphotos.com/3367263/48299/v/600/depositphotos_482991854-stock-video-animation-of-molecules-over-woman.jpg';
         album.style.background="linear-gradient(to right, rgba(2,2,2,0.726) 15%, rgba(8,8,8,0.829)), url(https://www.gaceta.unam.mx/wp-content/uploads/2020/12/201210-Aca1-des-f1-musica-estres.jpg)";

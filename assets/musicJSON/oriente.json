@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "playlist":"Oriente",
+        "artista":"Ayawaska",
+        "nombre" : "Somos Pueblo",
+        "url":"assets/music/Oriente/Somos-Pueblo.mp3",
+        "duracion":"3.33"
+    },
+    {
+        "id":1,
+        "playlist":"Oriente",
+        "artista":"Ayawaska",
+        "nombre" : "Macas Fuente",
+        "url":"assets/music/Oriente/Macas-fuente.mp3",
+        "duracion":"3.52"
+    }
+
+] 

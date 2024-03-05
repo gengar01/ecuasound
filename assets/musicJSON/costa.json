@@ -1,0 +1,36 @@
+[
+    {
+        "id":1,
+        "playlist":"Costa",
+        "artista":"Don Medardo",
+        "nombre" : "Cumbia Chonera",
+        "url":"assets/music/Costa/Cumbiachonera-DonMedardo.mp3",
+        "duracion":"4.08s"
+    },
+    {
+        "id":2,
+        "playlist":"Costa",
+        "artista":"Angel Guaraca",
+        "nombre" : "Alaja Guambrita",
+        "url":"assets/music/Costa/AlajaGuambrita.mp3",
+        "duracion":"3.44s"
+    },
+    {
+        "id":3,
+        "playlist":"Cultural",
+        "artista":"Cielo Azul Amazonico",
+        "nombre" : "Por ti daria mi vida",
+        "url":"assets/music/Cultural/Cielo Azul Amazónico -Por ti daria mi vida.mp3",
+        "duracion":"4.20s"
+    },
+    {
+        "id":3,
+        "playlist":"Cultural",
+        "artista":"JAYAC",
+        "nombre" : "Zapateando Juyayay",
+        "url":"assets/music/Cultural/Zapateando Juyayay-JAYAC.mp3",
+        "duracion":"5.24s"
+    }
+
+
+]
