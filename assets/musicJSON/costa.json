@@ -10,25 +10,57 @@
     {
         "id":2,
         "playlist":"Costa",
-        "artista":"Angel Guaraca",
-        "nombre" : "Alaja Guambrita",
-        "url":"assets/music/Costa/AlajaGuambrita.mp3",
+        "artista":"Marabu",
+        "nombre" : "Bomba Caliente",
+        "url":"assets/music/Costa/Marabu-Bomba-Caliente.mp3",
         "duracion":""
     },
     {
         "id":3,
-        "playlist":"Cultural",
-        "artista":"Cielo Azul Amazonico",
-        "nombre" : "Por ti daria mi vida",
-        "url":"assets/music/Cultural/Cielo Azul Amazónico -Por ti daria mi vida.mp3",
+        "playlist":"Costa",
+        "artista":"Widinson",
+        "nombre" : "Dos Morenas",
+        "url":"assets/music/Costa/Widinson-Dos-Morenas.mp3",
         "duracion":""
     },
     {
         "id":3,
-        "playlist":"Cultural",
-        "artista":"JAYAC",
-        "nombre" : "Zapateando Juyayay",
-        "url":"assets/music/Cultural/Zapateando Juyayay-JAYAC.mp3",
+        "playlist":"Costa",
+        "artista":"Widinson",
+        "nombre" : "El camaleón",
+        "url":"assets/music/Costa/Widinson-Elcamaleón.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Costa",
+        "artista":"Widinson",
+        "nombre" : "Dale Morena",
+        "url":"assets/music/Costa/Dale-Morena.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Costa",
+        "artista":"Marabu",
+        "nombre" : "El Chuchaki",
+        "url":"assets/music/Costa/Bomba-Música-afroecuatoriana.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Costa",
+        "artista":"Marabu",
+        "nombre" : "El Chuchaki 2",
+        "url":"assets/music/Costa/MARABU-ELCHUCHAQUI-2.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Costa",
+        "artista":"Julio Jaramillo",
+        "nombre" : "Nuestro Juramento",
+        "url":"assets/music/Costa/Nuestro-Juramento-Julio-Jaramillo.mp3",
         "duracion":""
     }
 

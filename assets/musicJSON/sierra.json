@@ -1,26 +1,42 @@
 [
     {
         "id":1,
-        "playlist":"Freestyle",
-        "artista":"Killah",
-        "nombre" : "Killah vs Terras",
-        "url":"assets/music/Freestyle/Killah vs Terras.mp3",
+        "playlist":"Sierra",
+        "artista":"KAMAY-TAKI-EC",
+        "nombre" : "Movidito-KAMAY TAKI",
+        "url":"assets/music/Sierra/Movidito-KAMAY-TAKI-EC.mp3",
         "duracion":""
     },
     {
         "id":2,
-        "playlist":"Freestyle",
-        "artista":"Sara",
-        "nombre" : "Rompiendo el beat",
-        "url":"assets/music/Freestyle/Rompiendo el beat.mp3",
+        "playlist":"Sierra",
+        "artista":"JAYAC",
+        "nombre" : "Zapateando Juyayay",
+        "url":"assets/music/Sierra/ZAPATEANDO-JUYAYAY-JAYAC.mp3",
         "duracion":""
     },
     {
         "id":3,
-        "playlist":"Freestyle",
-        "artista":"Sevana",
-        "nombre" : "Rock & Groove Riddim",
-        "url":"assets/music/Freestyle/RockGroove Riddim.mp3",
+        "playlist":"Sierra",
+        "artista":"Purik Dreams, Los Whiskysitos",
+        "nombre" : "Whiskisito",
+        "url":"assets/music/Sierra/Whiskisito-Original.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Sierra",
+        "artista":"JAYAC",
+        "nombre" : "Zamarro y Campanilla",
+        "url":"assets/music/Sierra/ZAMARROYCAMPANILLA-JAYAC.mp3",
+        "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Sierra",
+        "artista":"JAYAC",
+        "nombre" : "Lejos de ti",
+        "url":"assets/music/Sierra/Lejos-De-Ti.mp3",
         "duracion":""
     }
 ]

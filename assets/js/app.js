@@ -157,6 +157,7 @@ function siguienteAutomatico(){
     })
 }
 
+
 const btnFiles= document.getElementById('files');
 btnFiles.addEventListener('change',cargarArchivos)
 function cargarArchivos(e){
@@ -177,6 +178,7 @@ files.forEach(f=>{
                     <h3 class="time"></h3>
                 </li>`
                 contenedorListaMusic.appendChild(li);
+                
 
         }
     })(f)

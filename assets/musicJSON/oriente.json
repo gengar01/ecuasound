@@ -14,6 +14,30 @@
         "nombre" : "Macas Fuente",
         "url":"assets/music/Oriente/Macas-fuente.mp3",
         "duracion":""
+    },
+    {
+        "id":1,
+        "playlist":"Oriente",
+        "artista":"Bayron Caicedo",
+        "nombre" : "Mi Bella Amazonía",
+        "url":"assets/music/Oriente/MI-BELLA-AMAZONIA.mp3",
+        "duracion":""
+    },
+    {
+        "id":1,
+        "playlist":"Oriente",
+        "artista":"Sangre Shuar",
+        "nombre" : "Chankin",
+        "url":"assets/music/Oriente/SANGRE-SHUAR-CHANKIN.mp3",
+        "duracion":""
+    },
+    {
+        "id":1,
+        "playlist":"Oriente",
+        "artista":"Sangre Shuar",
+        "nombre" : "YATSUCHIRU-(Hermanito)",
+        "url":"assets/music/Oriente/SANGRE-SHUAR-YATSUCHIRU(Hermanito).mp3",
+        "duracion":""
     }
 
 ] 
