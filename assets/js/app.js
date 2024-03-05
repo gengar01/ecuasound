@@ -1,4 +1,5 @@
 //Funcionalidades
+
 const btnReaccion=document.getElementById('reaccion');
 const contenedorListaMusic=document.getElementById('lista-music');
 const controles=document.getElementById('controles');

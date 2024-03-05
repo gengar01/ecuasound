@@ -38,5 +38,13 @@
         "nombre" : "Lejos de ti",
         "url":"assets/music/Sierra/Lejos-De-Ti.mp3",
         "duracion":""
+    },
+    {
+        "id":3,
+        "playlist":"Sierra",
+        "artista":"Los Amigos Millonarios",
+        "nombre" : "CHIKY",
+        "url":"assets/music/Sierra/CHIKY-CORAZÓN-AMIGOS-MILLONARIOS.mp3",
+        "duracion":""
     }
 ]
