@@ -1,68 +1,66 @@
 [
     {
-        "id":1,
-        "playlist":"Costa",
-        "artista":"Don Medardo",
-        "nombre" : "Cumbia Chonera",
-        "url":"assets/music/Costa/Cumbiachonera-DonMedardo.mp3",
-        "duracion":""
+        "id": 1,
+        "playlist": "Costa",
+        "artista": "Don Medardo",
+        "nombre": "Cumbia Chonera",
+        "url": "assets/music/Costa/Cumbiachonera-DonMedardo.mp3",
+        "duracion": ""
     },
     {
-        "id":2,
-        "playlist":"Costa",
-        "artista":"Marabu",
-        "nombre" : "Bomba Caliente",
-        "url":"assets/music/Costa/Marabu-Bomba-Caliente.mp3",
-        "duracion":""
+        "id": 2,
+        "playlist": "Costa",
+        "artista": "Marabu",
+        "nombre": "Bomba Caliente",
+        "url": "assets/music/Costa/Marabu-Bomba-Caliente.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Widinson",
-        "nombre" : "Dos Morenas",
-        "url":"assets/music/Costa/Widinson-Dos-Morenas.mp3",
-        "duracion":""
+        "id": 3,
+        "playlist": "Costa",
+        "artista": "Widinson",
+        "nombre": "Dos Morenas",
+        "url": "assets/music/Costa/Widinson-Dos-Morenas.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Widinson",
-        "nombre" : "El camaleón",
-        "url":"assets/music/Costa/Widinson-Elcamaleón.mp3",
-        "duracion":""
+        "id": 4,
+        "playlist": "Costa",
+        "artista": "Widinson",
+        "nombre": "El camaleón",
+        "url": "assets/music/Costa/Widinson-Elcamaleón.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Widinson",
-        "nombre" : "Dale Morena",
-        "url":"assets/music/Costa/Dale-Morena.mp3",
-        "duracion":""
+        "id": 5,
+        "playlist": "Costa",
+        "artista": "Widinson",
+        "nombre": "Dale Morena",
+        "url": "assets/music/Costa/Dale-Morena.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Marabu",
-        "nombre" : "El Chuchaki",
-        "url":"assets/music/Costa/Bomba-Música-afroecuatoriana.mp3",
-        "duracion":""
+        "id": 6,
+        "playlist": "Costa",
+        "artista": "Marabu",
+        "nombre": "El Chuchaki",
+        "url": "assets/music/Costa/Bomba-Música-afroecuatoriana.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Marabu",
-        "nombre" : "El Chuchaki 2",
-        "url":"assets/music/Costa/MARABU-ELCHUCHAQUI-2.mp3",
-        "duracion":""
+        "id": 7,
+        "playlist": "Costa",
+        "artista": "Marabu",
+        "nombre": "El Chuchaki 2",
+        "url": "assets/music/Costa/MARABU-ELCHUCHAQUI-2.mp3",
+        "duracion": ""
     },
     {
-        "id":3,
-        "playlist":"Costa",
-        "artista":"Julio Jaramillo",
-        "nombre" : "Nuestro Juramento",
-        "url":"assets/music/Costa/Nuestro-Juramento-Julio-Jaramillo.mp3",
-        "duracion":""
+        "id": 8,
+        "playlist": "Costa",
+        "artista": "Julio Jaramillo",
+        "nombre": "Nuestro Juramento",
+        "url": "assets/music/Costa/Nuestro-Juramento-Julio-Jaramillo.mp3",
+        "duracion": ""
     }
-
-
 ]

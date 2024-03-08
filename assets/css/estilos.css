@@ -5,7 +5,7 @@
     font-family: 'Tenali Ramakrishna', sans-serif;
 }
 .contenedor{
-    background: linear-gradient(to right, rgba(2, 2, 2, 0.726) 15%, rgba(8, 8, 8, 0.829)), url(/assets/img/fondo.jpg);
+    background: linear-gradient(to right, rgba(2, 2, 2, 0.726) 15%, rgba(8, 8, 8, 0.829)), url(/assets/img/f-fondoo.jpg);
     height: 100vh;
     width: 100vw;
     background-size:cover;

@@ -8,7 +8,7 @@
         "duracion":""
     },
     {
-        "id":1,
+        "id":2,
         "playlist":"Oriente",
         "artista":"Ayawaska",
         "nombre" : "Macas Fuente",
@@ -16,7 +16,7 @@
         "duracion":""
     },
     {
-        "id":1,
+        "id":3,
         "playlist":"Oriente",
         "artista":"Bayron Caicedo",
         "nombre" : "Mi Bella Amazonía",
@@ -24,7 +24,7 @@
         "duracion":""
     },
     {
-        "id":1,
+        "id":4,
         "playlist":"Oriente",
         "artista":"Sangre Shuar",
         "nombre" : "Chankin",
@@ -32,7 +32,7 @@
         "duracion":""
     },
     {
-        "id":1,
+        "id":5,
         "playlist":"Oriente",
         "artista":"Sangre Shuar",
         "nombre" : "YATSUCHIRU-(Hermanito)",
