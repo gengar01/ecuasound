@@ -212,7 +212,7 @@
     font-size: 35px;
 }
 .reaccion-activa{
-    background: rgb(221, 147, 147);
+    background: rgb(0, 0, 0);
     font-size: 30px;
     color: #ee3b3b;
     animation: latir linear 2s;
